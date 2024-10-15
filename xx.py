@@ -1,6 +1,6 @@
 x = 1
-y = 1
-z = 1
+y = 2
+z = 300
 n = 2
 
 coordinates = [
